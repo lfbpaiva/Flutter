@@ -1,0 +1,19 @@
+name: jokenpo
+description: Um simples jogo de Jokenpô
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/derrota.png
+    - assets/images/empate.png
+    - assets/images/padrao.png
+    - assets/images/papel.png
+    - assets/images/pedra.png
+    - assets/images/tesoura.png
+    - assets/images/vitoria.png
