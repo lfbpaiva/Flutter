@@ -21,16 +21,5 @@ Este é um simples aplicativo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolv
 
 lib/ ├── main.dart ├── tela_resultado.dart assets/ └── images/ ├── pedra.png ├── papel.png ├── tesoura.png ├── vitoria.png ├── derrota.png ├── empate.png └── padrao.png
 
-🛠️ To-Do
- Adicionar sons para cada jogada
-
- Melhorar o design visual
-
- Suporte para múltiplas rodadas
-
- Tela inicial com instruções do jogo
-
-📃 Licença
-Este projeto está sob a licença MIT.
 
 Feito com ❤️ por @lfbpaiva usando Flutter.
