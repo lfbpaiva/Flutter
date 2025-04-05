@@ -2,9 +2,6 @@
 
 Este é um simples aplicativo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido com Flutter. O usuário escolhe uma das três opções e o aplicativo faz uma escolha aleatória para determinar o vencedor. 🚀
 
-## 🖼️ Preview
-
-![Preview](assets/images/padrao.png)
 
 ## 🎮 Como funciona
 
