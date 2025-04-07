@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'tela_resultado.dart'; // Certifique-se de que o nome do arquivo da tela de resultado seja 'result.dart'
+import 'tela_resultado.dart'; 
 
 void main() {
   runApp(MyApp());
