@@ -1,9 +1,9 @@
-🧠 Estudos em Flutter  
+## 🧠 Estudos em Flutter  
 Este repositório contém um jogo interativo de **Jokenpô (Pedra, Papel ou Tesoura)** desenvolvido com Flutter. O projeto foi criado com o objetivo de praticar navegação entre telas, gerenciamento de estado e interação com o usuário por meio de imagens clicáveis.
 
 ---
 
-📁 Estrutura do Projeto  
+## 📁 Estrutura do Projeto  
 🔹 `main.dart`  
 - Tela principal (`HomeScreen`) onde o usuário escolhe entre pedra, papel ou tesoura.  
 - Utiliza o widget `GestureDetector` para capturar a escolha do jogador.  
@@ -22,7 +22,7 @@ Contém as imagens utilizadas no jogo:
 
 ---
 
-🚀 Tecnologias Utilizadas  
+## 🚀 Tecnologias Utilizadas  
 - Flutter  
 - Dart  
 - Material Design  
@@ -31,7 +31,7 @@ Contém as imagens utilizadas no jogo:
 
 ---
 
-🎯 Objetivo  
+## 🎯 Objetivo  
 Este projeto tem como foco:  
 - Praticar conceitos de navegação entre telas com argumentos  
 - Criar lógica de decisão com base em escolhas do usuário e respostas aleatórias  
@@ -41,12 +41,12 @@ Este projeto tem como foco:
 
 ---
 
-🧑‍💻 Autor  
+## 🧑‍💻 Autor  
 Desenvolvido por [lfbpaiva](https://github.com/lfbpaiva) como parte de estudos e exercícios práticos com Flutter.
 
 ---
 
-📌 Observações  
+## 📌 Observações  
 Este jogo pode ser aprimorado com:  
 - Efeitos sonoros ou animações nas escolhas  
 - Histórico de partidas jogadas  
